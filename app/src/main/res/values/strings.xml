@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab 4</string>
+    <string name="signUp">signUp</string>
+    <string name="name">name</string>
+    <string name="cancel">cancel</string>
+    <string name="register">register</string>
+    <string name="rePassword">rePassword</string>
+    <string name="password">password</string>
+    <string name="telephone">telephone</string>
+    <string name="email">email</string>
+</resources>
